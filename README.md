@@ -1,5 +1,5 @@
 ![Header](https://github.com/Yachit9/Yachit9/blob/main/github-header-image.png)
-<img align="right" alt="coding" width="500" height="250" src="https://camo.githubusercontent.com/68a62542366acf8f2c2ff9384b22678a9cd5b6500d66239bc33c940191b32d9c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a5450793470665f503151554e565a717a6e676a6c69412e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yachit9&label=Profile%20views&color=0e75b6&style=flat" alt="yachit9" /> </p>
 
 - 🌱 I’m currently learning **Langchain, LLM's, Timeseries models**
